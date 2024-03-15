@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Tian Bai",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "tian.bai3@mail.mcgill.ca",
+    "phone": "(514) 441-2550",
+    "url": "https://tian-bai.github.io/al-folio/",
+    "summary": " ",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",

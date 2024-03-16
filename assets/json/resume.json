@@ -81,22 +81,22 @@
       "awarder": "McGill University"
     },
     {
-      "title": "Dean’s Honour List",
+      "title": "Dean's Honour List",
       "date": "2023-09, 2022-09",
       "awarder": "McGill University"
-    },
+    }
   ],
   "certificates": [
     {
       "name": "Microsoft Certified: Azure Data Engineer Associate",
       "date": "2023-06",
-      "issuer": "Microsoft",
+      "issuer": "Microsoft"
     },
     {
       "name": "zure Developer Associate",
       "date": "2023-06",
-      "issuer": "Microsoft",
-    },
+      "issuer": "Microsoft"
+    }
   ],
   "publications": [
     {

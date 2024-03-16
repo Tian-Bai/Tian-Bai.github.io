@@ -59,56 +59,44 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "title": "Science Undergraduate Research Award (SURA)",
+      "date": "2024-03",
+      "awarder": "McGill University",
+      "url": "https://www.mcgill.ca/science/research/undergraduate-research/sura",
+      "summary": "15 weeks of full-time research under the supervision of a professor, with financial support."
+    },
+    {
+      "title": "Tomlinson Engagement Award for Mentoring",
+      "date": "2024-03, 2023-12",
+      "awarder": "McGill University"
+    },
+    {
+      "title": "A. D. Pelletier Scholarship in Mathematics and Statistics",
+      "date": "2023-09",
+      "awarder": "McGill University"
+    },
+    {
+      "title": "Robert W Wilson Scholarship",
+      "date": "2022-09",
+      "awarder": "McGill University"
+    },
+    {
+      "title": "Dean’s Honour List",
+      "date": "2023-09, 2022-09",
+      "awarder": "McGill University"
+    },
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Microsoft Certified: Azure Data Engineer Associate",
+      "date": "2023-06",
+      "issuer": "Microsoft",
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "zure Developer Associate",
+      "date": "2023-06",
+      "issuer": "Microsoft",
     },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
   ],
   "publications": [
     {

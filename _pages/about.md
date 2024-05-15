@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate student at <a href='https://www.mcgill.ca/'>McGill University<\a>
+subtitle: Undergraduate student at <a href='https://www.mcgill.ca/'>McGill University</a>
 
 profile:
   align: right

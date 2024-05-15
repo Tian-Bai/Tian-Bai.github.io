@@ -19,3 +19,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am currently an undergraduate student at McGill University majored in Honours Mathematics and Computer Science, with an expected graduation date of December, 2024. My research interests include machine learning, statistics and their application to medical/biological fields.
+
+You can download my cv <a href='/assets/pdf/CV.pdf'>here</a>.

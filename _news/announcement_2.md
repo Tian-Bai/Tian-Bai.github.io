@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm pleased to announce that our research on using machine learning to predict patient outcomes in emergency department triage has been accepted for publication in the *Canadian Journal of Emergency Medicine*!
+I'm pleased to announce that our research on using machine learning to predict patient outcomes in emergency department triage has been accepted for publication in the Canadian Journal of Emergency Medicine!

@@ -21,10 +21,10 @@ show_reposts: false
 
 I am an undergraduate student at McGill University, majoring in Honours Mathematics and Computer Science, with an expected graduation date of December 2024. My research interests focus on the intersection of statistics and machine learning, particularly in areas that include:
 
-- **Understanding foundational aspects of AI/ML Systems**: I am fascinated by the inner workings of complex ML models that are often opaque. My aim is to gain a deeper understanding of these systems or potentially enhance their transparency through structural modifications.
+- **Understanding foundational aspects of AI/ML Systems**: I am fascinated by the inner workings of complex ML models, which are often opaque. My aim is to gain a deeper understanding of these systems or potentially enhance their transparency through structural modifications.
 
-- **Enhancing reliability and trustworthiness of AI/ML Systems**: I am interested in the development and application of methods, such as uncertainty quantification, for accessing and improving the reliability of black-box AI/ML systems, enabling confident deployments in risk-sensitive settings.
+- **Enhancing reliability and trustworthiness of AI/ML Systems**: I am interested in the development and application of methods for accessing and improving the reliability of black-box AI/ML systems (e.g. uncertainty quantification), enabling confident deployments in risk-sensitive settings.
 
 Currently, I am working on generalizations and applications of conformal inference under the supervision of [Prof. Archer Y. Yang](https://www.math.mcgill.ca/yyang/).
 
-You can download my cv <a href='/assets/pdf/CV.pdf'>here</a>.
+You can download my CV <a href='/assets/pdf/CV.pdf'>here</a>.

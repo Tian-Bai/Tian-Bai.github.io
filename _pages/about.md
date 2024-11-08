@@ -19,6 +19,12 @@ social: true # includes social icons at the bottom of the page
 show_reposts: false
 ---
 
-I am currently an undergraduate student at McGill University majored in Honours Mathematics and Computer Science, with an expected graduation date of December, 2024. My research interests include machine learning, statistics and their application to medical/biological fields. I am currently exploring the application of conformal inference to drug discovery, and generalizations of the conformal selection framework.
+I am an undergraduate student at McGill University, majoring in Honours Mathematics and Computer Science, with an expected graduation date of December 2024. My research interests focus on the intersection of statistics and machine learning, particularly in areas that include:
+
+- **Understanding foundational aspects of AI/ML Systems**: I am fascinated by the inner workings of complex ML models that are often opaque. My aim is to gain a deeper understanding of these systems or potentially enhance their transparency through structural modifications.
+
+- **Enhancing reliability and trustworthiness of AI/ML Systems**: I am interested in the development and application of methods, such as uncertainty quantification, for accessing and improving the reliability of black-box AI/ML systems, enabling confident deployments in risk-sensitive settings.
+
+Currently, I am working on generalizations and applications of conformal inference under the supervision of [Prof. Archer Y. Yang](https://www.math.mcgill.ca/yyang/).
 
 You can download my cv <a href='/assets/pdf/CV.pdf'>here</a>.

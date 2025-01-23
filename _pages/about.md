@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 show_reposts: false
 ---
 
-I am an undergraduate student at McGill University, majoring in Honours Mathematics and Computer Science, with an expected graduation date of December 2024. My research interests focus on the intersection of statistics and machine learning, particularly in areas that include:
+I recently graduated from McGill University with an Honours B.Sc. in Mathematics and Computer Science and plan to pursue a Ph.D. beginning in 2025. My research interests focus on the intersection of statistics and machine learning, particularly in areas that include:
 
 - **Enhancing reliability and trustworthiness of AI/ML Systems**: I am interested in the development and application of methods for accessing and improving the reliability of black-box AI/ML systems (e.g. uncertainty quantification, statistical inference with AI systems), enabling confident deployments in risk-sensitive settings.
 

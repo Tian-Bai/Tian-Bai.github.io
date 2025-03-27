@@ -1,11 +1,6 @@
 ---
 ---
-{% comment %}
-  Assign a CSS class from the custom pub_type field.
-  If pub_type is not defined, default to "default".
-{% endcomment %}
-{% assign pubClass = entry.pub_type | downcase | default: "preprint" %}
-<div class="row publication-entry {{ pubClass }}">
+<div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}

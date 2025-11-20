@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming Statistics Ph.D. student at <a href='https://statistics.stanford.edu/'>Stanford University</a>
+subtitle: Statistics Ph.D. student at <a href='https://statistics.stanford.edu/'>Stanford University</a>
 
 profile:
   align: right
@@ -19,12 +19,14 @@ social: true # includes social icons at the bottom of the page
 show_reposts: false
 ---
 
-I recently graduated from McGill University with an Honours B.Sc. in Mathematics and Computer Science, and I will be pursuing a Ph.D. in Statistics at Stanford University starting Fall 2025. I am generally interested in statistics and statistical machine learning, and I am particularly piqued by areas such as:
+I am a first-year Statistics Ph.D. student at Stanford University. I am broadly interested in statistics and statistical machine learning, and I am particularly piqued by areas such as:
 
 - **Enhancing reliability and trustworthiness of AI/ML Systems**: I am interested in the development and application of methods for accessing and improving the reliability of black-box AI/ML systems (e.g. uncertainty quantification, statistical inference with AI systems), enabling confident deployments in risk-sensitive settings.
 
-- **Understanding foundational aspects of AI/ML Systems**: I am fascinated by the inner workings of complex ML models, which are often opaque. My aim is to gain a deeper understanding of these systems or potentially enhance their transparency through structural modifications.
+- **Understanding foundational aspects of AI/ML Systems**: I am fascinated by the inner workings of complex ML models, which are often opaque. I am interested in developing a deeper understanding of these systems and exploring ways to improve their transparency through principled structural or methodological modifications.
 
-Currently, I am working on generalizations and applications of conformal inference under the supervision of [Prof. Archer Y. Yang](https://www.math.mcgill.ca/yyang/) and also collaborating with [Dr. Ying Jin](https://ying531.github.io/).
+Most recently, my work has centered on generalizations and applications of conformal inference.
 
-You can download my CV <a href='/assets/pdf/CV.pdf'>here</a>.
+Before starting my Ph.D., I graduated from McGill University, where I studied mathematics, computer science, and statistics. During my undergraduate studies, I had the privilege of working with [Prof. Archer Y. Yang](https://www.math.mcgill.ca/yyang/) and [Prof. Ying Jin](https://ying531.github.io/). 
+
+You can download my CV <a href='/assets/pdf/CV.pdf'>here</a>. 

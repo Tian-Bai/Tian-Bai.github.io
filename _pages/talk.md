@@ -13,7 +13,7 @@ nav_order: 4
   <p><strong>Contributed talks:</strong></p>
   <ul>
     <li>
-      <strong>Model-Free Selection Inference for Drug Discovery via Conformal Prediction</strong>
+      <strong>Conformal Selection for Efficient and Accurate Compound Screening in Drug Discovery</strong>
       <br>
       McGill 7th Undergraduate Research Conference, August 2024.
     </li>

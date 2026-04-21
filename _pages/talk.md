@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /talk/
-title: talk
+permalink: /talks/
+title: talks
 description:
 nav: true
 nav_order: 4
@@ -9,9 +9,20 @@ nav_order: 4
 
 <!-- _pages/talk.md -->
 
+<style>
+  .talk-section-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+
+  .talk-list li + li {
+    margin-top: 1.5rem;
+  }
+</style>
+
 <div class="talk">
-  <p><strong>Contributed talks:</strong></p>
-  <ul>
+  <p class="talk-section-title">Contributed talks:</p>
+  <ul class="talk-list">
     <li>
       <strong>Conformal Selection for Efficient and Accurate Compound Screening in Drug Discovery</strong>
       <br>

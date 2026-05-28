@@ -34,6 +34,8 @@ nav_order: 4
       Berkeley-Stanford Joint Colloquium, April 2026.
       <br>
       ICSA session: AI/ML-related inference, with applications in biomedical research, June 2026.
+      <br> 
+      ICSA student paper award session, June 2026.
     </li>
   </ul>
 </div>

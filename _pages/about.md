@@ -19,13 +19,13 @@ social: true # includes social icons at the bottom of the page
 show_reposts: false
 ---
 
-I am a first-year Statistics Ph.D. student at Stanford University. I am broadly interested in statistics and statistical machine learning, and I am particularly piqued by areas such as:
+I am a second-year Statistics Ph.D. student at Stanford University. I am broadly interested in statistics and statistical machine learning, with particular interests in:
 
-- **Enhancing reliability and trustworthiness of AI/ML Systems**: I am interested in the development and application of methods for accessing and improving the reliability of black-box AI/ML systems (e.g. uncertainty quantification, statistical inference with AI systems), enabling confident deployments in risk-sensitive settings.
+- **Enhancing reliability and trustworthiness of AI/ML Systems**: I am interested in the development and application of methods for assessing and improving the reliability of black-box AI/ML systems (e.g. uncertainty quantification, statistical inference with AI systems), enabling confident deployments in risk-sensitive settings.
 
-- **Understanding foundational aspects of AI/ML Systems**: I am fascinated by the inner workings of complex ML models, which are often opaque. I am interested in developing a deeper understanding of these systems and exploring ways to improve their transparency through principled structural or methodological modifications.
+- **Understanding foundational aspects of AI/ML Systems**: I am curious about the inner workings of complex ML models, which are often opaque. I hope to better understand these systems and explore whether principled structural or methodological approaches can help improve their transparency.
 
-Most recently, my work has centered on generalizations and applications of conformal inference.
+My research to date has centered on extensions and applications of conformal inference. More recently, I have been exploring e-value-based inference and decision-making, compound estimation, and related problems in statistical machine learning.
 
 Before starting my Ph.D., I graduated from McGill University, where I studied mathematics, computer science, and statistics. During my undergraduate studies, I had the privilege of working with [Prof. Archer Y. Yang](https://www.math.mcgill.ca/yyang/) and [Prof. Ying Jin](https://ying531.github.io/). 
 

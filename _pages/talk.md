@@ -31,11 +31,18 @@ nav_order: 4
     <li>
       <strong>Conformal Selective Prediction for General Risk Control</strong>
       <br>
-      Berkeley-Stanford Joint Colloquium, April 2026.
-      <br>
       ICSA session: AI/ML-related inference, with applications in biomedical research, June 2026.
       <br> 
       ICSA student paper award session, June 2026.
+    </li>
+  </ul>
+
+  <p class="talk-section-title">Poster presentations:</p>
+  <ul class="talk-list">
+    <li>
+      <strong>Conformal Selective Prediction for General Risk Control</strong>
+      <br>
+      Berkeley-Stanford Joint Colloquium Poster Session, April 2026.
     </li>
   </ul>
 </div>

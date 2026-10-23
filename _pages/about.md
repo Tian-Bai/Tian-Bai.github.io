@@ -25,7 +25,8 @@ I am a second-year Statistics Ph.D. student at Stanford University. I am broadly
 
 - **Understanding foundational aspects of AI/ML Systems**: I am curious about the inner workings of complex ML models, which are often opaque. I hope to better understand these systems and explore whether principled structural or methodological approaches can help improve their transparency.
 
-My research to date has centered on extensions and applications of conformal inference. More recently, I have been exploring e-value-based inference and decision-making, compound estimation, and related problems in statistical machine learning.
+My research to date has centered on extensions and applications of conformal inference. More recently, I have been exploring e-value-based inference and decision-making, compound estimation, and related problems in statistical machine learning. 
+My doctoral studies are generously supported by the William R. and Sara Hart Kimball Stanford Graduate Fellowship.
 
 Before starting my Ph.D., I graduated from McGill University, where I studied mathematics, computer science, and statistics. During my undergraduate studies, I had the privilege of working with [Prof. Archer Y. Yang](https://www.math.mcgill.ca/yyang/) and [Prof. Ying Jin](https://ying531.github.io/). 
 

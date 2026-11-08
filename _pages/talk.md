@@ -44,5 +44,10 @@ nav_order: 4
       <br>
       Berkeley-Stanford Joint Colloquium Poster Session, April 2026.
     </li>
+    <li>
+      <strong>Estimating Many Quantiles</strong>
+      <br>
+      Stanford SC2 Student Conference Poster Session, November 2026.
+    </li>
   </ul>
 </div>
